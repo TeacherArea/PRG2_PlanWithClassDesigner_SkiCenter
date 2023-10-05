@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SkiCenter.Person" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAgAAAAQAQAAEAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkiCenter.Customer" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAgAAAAIAAAAAAAAAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkiCenter.Booking">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAhAAAAAAAIEAAACBAAAAAAAAAAAAABAAAAAQAAIQA=</HashCode>
+      <FileName>Booking.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="bookingType" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SkiCenter.Employee" Collapsed="true">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAEAAAAAAAAAAAAEAgAABAIAAAAAAAAAA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkiCenter.Cabin" Collapsed="true">
+    <Position X="10.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAJAAIACQAAAAAAAAA=</HashCode>
+      <FileName>Cabin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkiCenter.ConferenceRoom" Collapsed="true">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAgAAAAIAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ConferenceRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkiCenter.Restaurant" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Restaurant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkiCenter.Schedule" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Schedule.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SkiCenter.SkiEquipment" Collapsed="true">
+    <Position X="10.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAgAJAAIACQAAAAAAAAA=</HashCode>
+      <FileName>SkiEquipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SkiCenter.BookingType" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAQAAIAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>BookingType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SkiCenter.PermissionType" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAgAAAAAAAAAAAAAAAAAQgAAACAAAAAAAAA=</HashCode>
+      <FileName>PermissionType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
